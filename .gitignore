@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+ima/resources/geckodriver.exe
+
 __pycache__/
 *.py[cod]
 *$py.class
